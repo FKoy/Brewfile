@@ -35,7 +35,7 @@ cask install bettertouchtool
 cask install coteditor
 cask install dropbox
 cask install evernote
-cask install genymoron
+cask install genymotion
 cask install github
 cask install iterm2
 cask install keyremap4macbook
