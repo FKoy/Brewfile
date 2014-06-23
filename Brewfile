@@ -43,7 +43,6 @@ cask install pycharm-ce
 cask install skype
 cask install virtualbox
 cask install vagrant
-cask install wunderlist
 cask install xtrafinder
 cask install google-chrome
 cask install google-drive
